@@ -10,3 +10,6 @@ m.next()
 
 for i in range(30): #assign how many places you want
     print m.next()
+
+#    stats.TimeSeries(fib).plot_histogram(a.next)
+#    I want to be able to graph it, still working on that
